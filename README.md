@@ -41,3 +41,10 @@ There are a number of pattern charts created so far, including:
 - one-handing practice
 
 More charts may be added as time goes on with new patterns to focus on.
+
+## Usage
+- Download the songs in the repo, and add them to your copy of KSM/USDVXC under their *songs* folder - you can add them to a subfolder such as “Custom” or similar for organisation.
+- Open KSM/USDVXC with these songs added, then navigate to the folder in-game and find the song you want to practice.
+- Practice!
+
+Also, in USDVXC, you can further focus your practice by using Practice Mode - accessed either through the FX-L+FX-R menu, or by pressing the grave key (`) - and setting what measures you want to loop through in practice.
