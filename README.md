@@ -19,7 +19,7 @@ These charts are created using **kshootmania 1.75’s Song Editor**, with the Ap
 The charts have been tested to work on:
 - kshootmania 1.75
 - Unnamed Sound Voltex Clone 1.60
-- Sound Vortex Exceed Gear arcade data (date code `2024121000`)
+- Sound Voltex Exceed Gear arcade data (date code `2024121000`)
 
 The idea behind these charts is that each one focuses on a particular type of pattern or skill for the duration of the song, and each chart and pattern starts off slowly to give you time to get used to the hand positioning and rhythm, before speeding up on subsequent measures to test your execution and timing.
 
