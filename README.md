@@ -26,6 +26,10 @@ Some of these are designed to be quite difficult, but through repetition they sh
 
 For experts (*level 19+ players of around VOLFORCE 19 or higher*), try setting Random on for an additional challenge. ^_-
 
+I’ve also recently found a utility called [VoxCharger](https://github.com/SirusDoma/VoxCharger) that can manage files for your arcade data installation, including importing KSM-made charts, so I’ve also converted these practice charts for use with Exceed Gear data. You’ll need [IFS_LayeredFS](https://github.com/mon/ifs_layeredfs) installed in order to inject custom charts into the arcade data, but I’ve tested these out in the game and they work fine.
+
+They’ve been purposely changed to Level 1 with radar charts zeroed out, so they won’t affect your Volforce rating.
+
 ## Pattern Charts
 There are a number of pattern charts created so far, including:
 
@@ -43,8 +47,18 @@ There are a number of pattern charts created so far, including:
 More charts may be added as time goes on with new patterns to focus on.
 
 ## Usage
+
+### KSM Songs
 - Download the songs in the repo, and add them to your copy of KSM/USDVXC under their *songs* folder - you can add them to a subfolder such as “Custom” or similar for organisation.
 - Open KSM/USDVXC with these songs added, then navigate to the folder in-game and find the song you want to practice.
 - Practice!
 
 Also, in USDVXC, you can further focus your practice by using Practice Mode - accessed either through the FX-L+FX-R menu, or by pressing the grave key (`) - and setting what measures you want to loop through in practice.
+
+### Arcade Omnimix Songs
+- You’ll need to install [IFS_LayeredFS](https://github.com/mon/ifs_layeredfs) into your AC data folder using the usual instructions.
+- Create a `data_mods` folder in the root of your data installation.
+- Download the repo, and copy the entirety of the `omnimix_practice` folder (including the folder itself) into `data_mods`, so your folder structure looks like `data_mods\omnimix_practice\(the three folders inside)`.
+- Run the game - it should boot up as normal if it’s working fine. If it crashes after the initial boot check, something has gone wrong.
+- If it’s working, you should find the practice songs in the Level 1 folder.
+- Practice!

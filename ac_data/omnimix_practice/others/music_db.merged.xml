@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<mdb>
+  <music id="2198">
+    <info>
+      <label>2198</label>
+      <title_name>Practice [BTFX Combos]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_btfxcombos</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">1</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2199">
+    <info>
+      <label>2199</label>
+      <title_name>Practice [BT Holds]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_btholds</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">2</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2200">
+    <info>
+      <label>2200</label>
+      <title_name>Practice [Chords]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_chords</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">3</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2201">
+    <info>
+      <label>2201</label>
+      <title_name>Practice [Difficult Chords]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_difficultchords</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">4</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2202">
+    <info>
+      <label>2202</label>
+      <title_name>Practice [Double FX Holds]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_doublefxholds</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">5</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2203">
+    <info>
+      <label>2203</label>
+      <title_name>Practice [FX Stairs]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_fxcases</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">6</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2204">
+    <info>
+      <label>2204</label>
+      <title_name>Practice [Hand Trip - LH Focus]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_handtrip_lhfocus</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">7</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2205">
+    <info>
+      <label>2205</label>
+      <title_name>Practice [Hand Trip - RH Focus]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_handtrip_rhfocus</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">8</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2206">
+    <info>
+      <label>2206</label>
+      <title_name>Practice [Laser Switching]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_laserswitching</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">9</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2207">
+    <info>
+      <label>2207</label>
+      <title_name>Practice [One-handing]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_onehanding</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">10</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+  <music id="2208">
+    <info>
+      <label>2208</label>
+      <title_name>Practice [Staircases]</title_name>
+      <title_yomigana>ダミー</title_yomigana>
+      <artist_name>Icarus</artist_name>
+      <artist_yomigana>ダミー</artist_yomigana>
+      <ascii>practice_staircases</ascii>
+      <bpm_max __type="u32">13000</bpm_max>
+      <bpm_min __type="u32">13000</bpm_min>
+      <distribution_date __type="u32">20250526</distribution_date>
+      <volume __type="u16">91</volume>
+      <bg_no __type="u16">11</bg_no>
+      <genre __type="u8">16</genre>
+      <is_fixed __type="u8">1</is_fixed>
+      <version __type="u8">1</version>
+      <demo_pri __type="s8">0</demo_pri>
+      <inf_ver __type="u8">0</inf_ver>
+    </info>
+    <difficulty>
+      <novice>
+        <difnum __type="u8">1</difnum>
+        <illustrator>Icarus</illustrator>
+        <effected_by>Icarus</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </novice>
+      <advanced>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </advanced>
+      <exhaust>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </exhaust>
+      <maximum>
+        <difnum __type="u8">0</difnum>
+        <illustrator>dummy</illustrator>
+        <effected_by>dummy</effected_by>
+        <price __type="s32">-1</price>
+        <limited __type="u8">3</limited>
+        <jacket_print __type="s32">-2</jacket_print>
+        <jacket_mask __type="s32">0</jacket_mask>
+      </maximum>
+    </difficulty>
+  </music>
+</mdb>
